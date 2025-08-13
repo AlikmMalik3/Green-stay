@@ -124,7 +124,7 @@ body {
   justify-content: center;
   text-align: center;
   height: 100vh;
-  background-image: url('../images/call-center-services.jpg');
+  background-image: url('call-center-services.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -369,4 +369,5 @@ footer {
   margin: 0 10px;
   text-decoration: none;
   font-size: 14px;
+
 }
