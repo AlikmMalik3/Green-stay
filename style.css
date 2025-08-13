@@ -130,7 +130,7 @@ section {
   justify-content: center;
   text-align: center;
   height: 100vh;
-  background-image: url('../images/eco-cabin-forest.png');
+  background-image: url('eco-cabin-forest.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
